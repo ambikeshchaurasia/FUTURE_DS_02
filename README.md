@@ -73,7 +73,7 @@ Shift retention budget away from blanket discounting toward contract-term and on
 
 * **Customer_Churn_Analysis_Dashboard.pbix** — Full Power BI dashboard file
 * **Dashboard2.png** — Dashboard screenshot and preview
-* **Churn_Analysis_Insights_Report.docx** — Detailed business insights and recommendations report
+* **** — Detailed business insights and recommendations report
 * **README.md** — Project documentation and overview
 
 ## 🔗 Project Context
