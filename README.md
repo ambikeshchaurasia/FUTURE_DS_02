@@ -3,7 +3,9 @@
 
 An end-to-end customer retention and churn analysis project built in Power BI, using the Telco Customer Churn dataset. The project covers the full pipeline: data cleaning → DAX modeling → interactive dashboard → business recommendations.
 
-Show Image
+## Dashboard Preview
+
+![Dashboard](dashboard2.png)
 
 ## 📌 Problem Statement
 
