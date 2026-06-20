@@ -79,3 +79,18 @@ README.md — this file
 ## 🔗 Project Context
 
 Built as part of the Future Interns Data Analytics track, using the Telco Customer Churn dataset from Kaggle.
+Dataset Link : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+## Results & Conclusion
+The analysis revealed that contract type, tenure, and monthly charges are the strongest indicators of customer churn. By focusing retention efforts on high-risk customers and encouraging long-term subscriptions, businesses can significantly reduce churn and improve customer lifetime value.
+
+## Future Work
+Predictive churn modeling using Machine Learning
+Customer Lifetime Value (CLV) prediction
+Advanced cohort retention analysis
+Automated retention alerts
+Real-time dashboard integration
+
+## Author
+Ambikesh Chaurasia
+GitHub: [Your GitHub Profile]
+LinkedIn: [Your LinkedIn Profile]
