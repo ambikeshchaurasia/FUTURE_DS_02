@@ -5,7 +5,7 @@ An end-to-end customer retention and churn analysis project built in Power BI, u
 
 ## Dashboard Preview
 
-![Dashboard](dashboard2.png)
+(dashboard2.png)
 
 ## 📌 Problem Statement
 
