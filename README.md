@@ -9,7 +9,7 @@ An end-to-end customer retention and churn analysis project built in Power BI, u
 
 ## 📌 Problem Statement
 
-Out of 5,630 customers, 19.34% had churned. The goal was to move beyond that single number and identify which customers churn, when they churn, and why — then turn that into recommendations a founder or product manager could act on.
+7043 Out of  customers, 26.54% had churned. The goal was to move beyond that single number and identify which customers churn, when they churn, and why — then turn that into recommendations a founder or product manager could act on.
 
 ## 🧰 Tools Used
 
@@ -43,12 +43,12 @@ Risk Type — flags "High Risk" customers (short tenure + month-to-month contrac
 ## 📊 Dashboard Highlights
 
 MMetric                                        Value
-Total Customers                                5,630
-Churn Rate                                     19.34%
-Churned Customers                              1,089
+Total Customers                                7043
+Churn Rate                                     26.54%
+Churned Customers                              1,869
 High-Risk Customers                            633
 Highest-Risk Tenure Band                       6–12 months (35.89% churn)
-Highest-Risk Contract Type                     Month-to-Month (875 churned)
+Highest-Risk Contract Type                     Month-to-Month (780 churned)
 
 ## 💡 Key Insights
 
