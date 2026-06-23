@@ -73,12 +73,12 @@ Shift retention budget away from blanket discounting toward contract-term and on
 
 * **Customer_Churn_Analysis_Dashboard.pbix** — Full Power BI dashboard file
 * **Dashboard2.png** — Dashboard screenshot and preview
-* **** — Detailed business insights and recommendations report
 * **README.md** — Project documentation and overview
 
 ## 🔗 Project Context
 
 Built as part of the Future Interns Data Analytics track, using the Telco Customer Churn dataset from Kaggle.
+
 Dataset Link : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 ## Results & Conclusion
 The analysis revealed that contract type, tenure, and monthly charges are the strongest indicators of customer churn. By focusing retention efforts on high-risk customers and encouraging long-term subscriptions, businesses can significantly reduce churn and improve customer lifetime value.
@@ -92,5 +92,5 @@ Real-time dashboard integration
 
 ## Author
 Ambikesh Chaurasia
-GitHub: [Your GitHub Profile]
-LinkedIn: [Your LinkedIn Profile]
+GitHub: https://github.com/ambikeshchaurasia
+LinkedIn: www.linkedin.com/in/ambikeshchaurasia
